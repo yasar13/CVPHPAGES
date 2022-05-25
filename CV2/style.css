@@ -1,0 +1,28 @@
+h1 {
+    color:rgb(55, 0, 255)
+}
+
+ 
+.left{
+    
+    color: aliceblue;
+
+    width: 20%;
+    float: left;
+    background-color: rgb(45, 45, 182);
+}
+
+.right{
+    
+    width: 80%;
+    float: right;
+ 
+}
+
+.yasar{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
